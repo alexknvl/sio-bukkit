@@ -1,0 +1,4 @@
+name: sio-bukkit-example
+version: 0.1
+description: An example bukkit plugin using sio-bukkit.
+main: sio.bukkit.example.Main
